@@ -1,6 +1,7 @@
 # Hostel Management Application
 
 Created using MERN Stack with Redux
+![image](assets/image.png)
 
 ## Installation
 
