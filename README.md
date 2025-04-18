@@ -59,6 +59,8 @@ GitHub: [github.com/Kaivalya192](https://github.com/Kaivalya192)
 LinkedIn: [linkedin.com/in/kaivalya192](https://www.linkedin.com/in/kaivalya192/)
 
 **Vidit Paladiya**
+<br>
 Email: [viditpaladiya@gmail.com](mailto:viditpaladiya@gmail.com)
+<br>
 GitHub: [github.com/ViditPaladiya](https://github.com/ViditPaladiya)  
 LinkedIn: [linkedin.com/in/vidit-paladiya-629416262](https://www.linkedin.com/in/vidit-paladiya-629416262)
