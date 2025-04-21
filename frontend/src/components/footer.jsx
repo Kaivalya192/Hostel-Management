@@ -6,7 +6,7 @@ const Footer = () => {
     <Container>
       <Row>
         <Col className='text-center py-3'>
-          &copy; {new Date().getFullYear()} Developed by Kaivalya Shah & Vidit Paladiya
+          &copy; {new Date().getFullYear()} Developed by Kaivalya Shah , Vidit Paladiya and Vivan Selarka
         </Col>
       </Row>
     </Container>
